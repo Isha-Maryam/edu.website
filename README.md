@@ -61,7 +61,7 @@ Building a personal portfolio
 
 (Enable GitHub Pages to view live website)
 
-https://github.com/Isha-Maryam/edu.website.git
+ https://isha-maryam.github.io/edu.website/
 
 👩‍💻 Author
 
